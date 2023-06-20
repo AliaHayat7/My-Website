@@ -165,4 +165,11 @@ h3{
         left:30px;
         bottom: 300px;
     }
+    .vision{
+
+        margin: 90px auto 0px auto;  
   }
+  .navbar{
+    padding-bottom: 2px;
+}
+}
