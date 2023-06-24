@@ -8,6 +8,7 @@ body{
 }
 .navbar{
     background-color: #3AA6B9;
+    padding: 1.3rem;
 }
 .nav-text{
     padding-right: 70px;
@@ -169,7 +170,4 @@ h3{
 
         margin: 90px auto 0px auto;  
   }
-  .navbar{
-    padding-bottom: 2px;
-}
 }
